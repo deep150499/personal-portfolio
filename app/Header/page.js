@@ -39,18 +39,6 @@ export const generalLinks = [
     label: "project",
     Icon: <HiOutlineCode />,
   },
-  // {
-  //   href: "https://github.com/deep150499",
-  //   label: "GitHub",
-  //   target: "_blank",
-  //   Icon: <PiGithubLogoThin />,
-  // },
-  // {
-  //   href: "https://twitter.com/Joenaldo",
-  //   label: "GitHub",
-  //   target: "_blank",
-  //   Icon: <PiTwitterLogoThin />,
-  // },
   {
     href: "/experience",
     label: "experience",

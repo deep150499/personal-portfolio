@@ -55,18 +55,6 @@ function Expage() {
 
               <div>
                 <div className="flex gap-x-4 my-6">
-                  {/* <motion.img
-                    initial={{ x: 100, opacity: 0, filter: "blur(50px)" }}
-                    animate={{
-                      x: 0,
-                      opacity: 1,
-                      filter: "blur(0px)",
-                      transition: { duration: 0.4, delay: 0.5 },
-                    }}
-                    className="w-14 h-14 rounded-full text-[#1d2880]"
-                    src={each.imgLink}
-                    alt=""
-                  /> */}
                   <div>
                     <motion.h1
                       initial={{ x: 100, opacity: 0, filter: "blur(50px)" }}

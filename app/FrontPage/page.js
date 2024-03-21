@@ -42,11 +42,6 @@ function Frpage() {
         <p className="dark:text-neutral-300  font-InterMedium  mt-3">
         As a Front End Web Developer, my goal is to utilize my proficiency in HTML, CSS, Tailwind CSS JavaScript, Typescript, React Js, Next Js to create visually stunning and user-friendly websites. With a keen eye for design and a passion for coding, I am dedicated to delivering innovative solutions that enhance the digital presence of businesses and provide exceptional user experiences.
         </p>
-        {/* <p className="mt-6 dark:text-neutral-300 max-sm:text-sm font-InterMedium">
-          My objective is straightforward, to create exceptional things
-          alongside exceptional individuals. By collaborating harmoniously, we
-          can accomplish this goal.
-        </p> */}
 
         <button className="mt-10 border border-neutral-700/30 rounded-md p-2 w-full lg:w-44 bg-neutral-800/20 text-sm dark:text-neutral-400 font-semibold">
           View resume
