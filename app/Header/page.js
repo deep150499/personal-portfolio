@@ -1,6 +1,5 @@
 "use client";
 import {
-  MotionValue,
   motion,
   useMotionValue,
   useSpring,
@@ -13,8 +12,6 @@ import {
   PiHouseThin,
   PiCloudSunLight,
   PiMoonLight,
-  PiGithubLogoThin,
-  PiTwitterLogoThin,
 } from "react-icons/pi";
 import { GoPerson } from "react-icons/go";
 

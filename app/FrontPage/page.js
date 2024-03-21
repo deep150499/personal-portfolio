@@ -2,12 +2,9 @@
 
 import Status from "@/app/Status/page";
 
-import React, { useState } from "react";
+import React from "react";
 import Link from "next/link";
-import { PiLockThin } from "react-icons/pi";
 import Image from "next/image";
-
-import { motion } from "framer-motion";
 
 function Frpage() {
 

@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import React from "react";
-import { TbArrowBackUp, TbBrandVscode } from "react-icons/tb";
+import { TbArrowBackUp } from "react-icons/tb";
 import { IoLogoHtml5 } from "react-icons/io";
 import { FaCss3Alt , FaReact, FaGithub } from "react-icons/fa";
 import { IoLogoJavascript } from "react-icons/io5";
