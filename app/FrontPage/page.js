@@ -40,7 +40,7 @@ function Frpage() {
         As a Front End Web Developer, my goal is to utilize my proficiency in HTML, CSS, Tailwind CSS JavaScript, Typescript, React Js, Next Js to create visually stunning and user-friendly websites. With a keen eye for design and a passion for coding, I am dedicated to delivering innovative solutions that enhance the digital presence of businesses and provide exceptional user experiences.
         </p>
 
-        <Link href={'https://drive.google.com/file/d/1TgbEn9oD773JpUOW26VeECgmT7NU0rSR/view?usp=sharing'} target="_blank"><button className="mt-10 border border-neutral-700/30 rounded-md p-2 w-full lg:w-44 bg-neutral-800/20 text-sm dark:text-neutral-400 font-semibold">
+        <Link href={'https://drive.google.com/file/d/1RCUP6j8aG_ZPNEg5EAOJgSoE92mfqZqb/view?usp=sharing'} target="_blank"><button className="mt-10 border border-neutral-700/30 rounded-md p-2 w-full lg:w-44 bg-neutral-800/20 text-sm dark:text-neutral-400 font-semibold">
           View resume
         </button>
         </Link>
