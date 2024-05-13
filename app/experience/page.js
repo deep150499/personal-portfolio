@@ -7,6 +7,13 @@ import { motion } from "framer-motion";
 
 let link = [
   {
+    date: "May 2024 - Present",
+    imgLink: "/img/experiencelogo.jpg",
+    title: "Front End Software Developer",
+    sub: "Vosyn",
+    subTitle: "As a Front End Developer, I Collaborate with the development team to integrate frontend elements with server-side logic, maintain a comprehensive test suite, and actively participating in all stages of the application lifecycle, including coding, debugging, and usability enhancements."
+  },
+  {
     date: "July 2021 - December 2021",
     imgLink: "/img/experiencelogo.jpg",
     title: "Front End Developer",
@@ -67,7 +74,7 @@ function Expage() {
                     >
                       {each.title}
                     </motion.h1>
-                    <Link className="font-semibold hover:underline" href={"https://www.linkedin.com/company/mountowl/"}>
+                    <Link className="font-semibold hover:underline" href={"https://www.linkedin.com/in/deepnanavati/"}>
                       {each.sub}
                     </Link>
                   </div>
