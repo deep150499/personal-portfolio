@@ -29,7 +29,7 @@ function Aboutpage() {
           <h4 className="my-11 font-InterBold">How it all started</h4>
 
           <p className="my-9">
-          My journey into front end development began with a curiosity about how websites were built, leading me to explore HTML, CSS, and JavaScript. As I delved deeper into these languages and their applications, I discovered a passion for creating visually appealing and interactive user interfaces. Through formal education, self-guided learning, practice, and continuous exploration of emerging technologies, I honed my skills into fulfilling career as a front end developer.
+          My journey into Software Development began with a curiosity about how appplications and websites were built, leading me to explore HTML, CSS, and JavaScript. As I delved deeper into these languages and their applications, I discovered a passion for creating visually appealing and interactive user interfaces. Through formal education, self-guided learning, practice, and continuous exploration of emerging technologies, I honed my skills into fulfilling career as a Software Developer.
           </p>
 
           <h4 className="font-InterBold">My Stack</h4>
