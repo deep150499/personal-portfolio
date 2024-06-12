@@ -5,8 +5,8 @@ import React from "react";
 import { TbArrowBackUp } from "react-icons/tb";
 import { IoLogoHtml5 } from "react-icons/io";
 import { FaCss3Alt , FaReact, FaGithub } from "react-icons/fa";
-import { IoLogoJavascript } from "react-icons/io5";
-import { SiTypescript, SiTailwindcss } from "react-icons/si";
+import { IoLogoJavascript, IoLogoNodejs } from "react-icons/io5";
+import { SiTypescript, SiTailwindcss, SiExpress, SiMongodb } from "react-icons/si";
 import { TbBrandNextjs } from "react-icons/tb";
 
 function Aboutpage() {
@@ -34,7 +34,7 @@ function Aboutpage() {
 
           <h4 className="font-InterBold">My Stack</h4>
 
-          <div className="flex gap-x-8 justify-around mt-16">
+          <div className="flex gap-x-14 gap-y-10 justify-around mt-16 flex-wrap">
           <IoLogoHtml5 className="text-[#e75823] text-2xl" />
           <FaCss3Alt className="text-[#2599f9] text-2xl" />
           <SiTailwindcss className="text-[#35bdf7] text-2xl"/>
@@ -42,6 +42,9 @@ function Aboutpage() {
           <SiTypescript className="text-[#2e78c7] text-2xl" />
           <FaReact className="text-[#5fdbfb] text-2xl" />
           <TbBrandNextjs className="text-2xl" />
+          <IoLogoNodejs className="text-[#80bc03] text-2xl" />
+          <SiExpress className="text-2xl"/>
+          <SiMongodb className="text-[#4dab40] text-2xl"/>
           <FaGithub className="text-2xl" />
           </div>
         </div>
