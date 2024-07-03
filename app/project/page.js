@@ -11,13 +11,43 @@ import Image from "next/image";
 
 const projects = [
   {
+    imgLink: "/img/notto.jpeg",
+    title: "Notto",
+    subT: "Intuitive note-taking application leveraging React for a seamless user experience, enabling efficient organization and retrieval of information.",
+    tech : [
+      'React JS',
+      'Javascript',
+      'Node.js',
+      'Express.js',
+      'MongoDB',
+    ],
+    src : 'https://notto-app.vercel.app/',
+    github : 'https://github.com/deep150499/FullStack-NotesApp',
+  },
+  {
+    imgLink: "/img/shopper.jpeg",
+    title: "Shopper",
+    subT: "Developed a full-stack e-commerce application featuring secure user authentication, intuitive product browsing, efficient cart management, and streamlined checkout.",
+    tech : [
+      'React JS',
+      'Javascript',
+      'Node.js',
+      'Express.js',
+      'MongoDB',
+    ],
+    src : 'https://shopper-stop.vercel.app/',
+    github : 'https://github.com/deep150499/FullStack-Store',
+  },
+  {
     imgLink: "/img/e-commerce.jpg",
     title: "Comfort Kicks",
     subT: "An e-commerce project leveraging HTML, CSS, JavaScript, and React to create a dynamic and visually appealing online shopping platform with seamless user experience and interactive functionalities.",
     tech : [
+      'HTML',
       'React JS',
       'Javascript',
       'Tailwind CSS',
+      'Redux'
     ],
     src : 'https://comfortkicks.netlify.app/',
     github : 'https://github.com/deep150499/shoes-ecommerce',
@@ -27,25 +57,15 @@ const projects = [
     title: "Dice Luck",
     subT: "Developed a dynamic dice game application leveraging React with Vite for efficient bundling, Javascript and Tailwind CSS for sleek styling.",
     tech : [
-      'React + Vite',
+      'HTML',
+      'React',
       'Javascript',
       'Tailwind CSS',
+      'Vite',
     ],
     src : 'https://diceluck.netlify.app/',
     github : 'https://github.com/deep150499/dicegame',
   },
-  {
-    imgLink: "/img/trip-planner.jpg",
-    title: "Trip planner",
-    subT: "Crafted an intuitive trip planner application using React, powered by JavaScript, and styled with Tailwind CSS for seamless user experience.",
-    tech : [
-      'Javascript',
-      'React',
-      'Tailwind CSS',
-    ],
-    src : 'https://github.com/deep150499/trip-planner-react',
-    github : 'https://github.com/deep150499/trip-planner-react'
-},
 ];
 
 function Projpage() {
@@ -108,8 +128,14 @@ function Projpage() {
                   <div className="px-2 py-1 mr-2 text-xs font-semibold border rounded-full dark:border-neutral-700">
                     <span>{each.tech[1]}</span>
                   </div>
-                  <div className="px-2 py-1 text-xs font-semibold border rounded-full dark:border-neutral-700">
+                  <div className="px-2 py-1 mr-2 text-xs font-semibold border rounded-full dark:border-neutral-700">
                     <span>{each.tech[2]}</span>
+                  </div>
+                  <div className="px-2 py-1 mr-2 text-xs font-semibold border rounded-full dark:border-neutral-700">
+                    <span>{each.tech[3]}</span>
+                  </div>
+                  <div className="px-2 py-1 mr-2 text-xs font-semibold border rounded-full dark:border-neutral-700">
+                    <span>{each.tech[4]}</span>
                   </div>
                 </div>
 
