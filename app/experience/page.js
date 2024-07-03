@@ -16,17 +16,17 @@ let link = [
   {
     date: "July 2021 - December 2021",
     imgLink: "/img/experiencelogo.jpg",
-    title: "Front End Developer",
+    title: "Software Developer",
     sub: "MountOwl",
-    subTitle: "As a Front End Developer, I consistently enhance user experiences by proficiently implementing responsive designs, optimizing performance, and integrating innovative features."
+    subTitle: "As a SoftwareDeveloper, I consistently enhance user experiences by proficiently implementing responsive designs, optimizing performance, and integrating innovative features."
   },
   {
     date: "January 2021 - June 2021",
     imgLink: "/img/experiencelogo.jpg",
-    title: "Front End Developer Intern",
+    title: "Software Developer Intern",
     sub: "MountOwl",
     subTitle:
-    "As a Front End Developer Intern, I supported the development team by assisting in the implementation of responsive web designs, troubleshooting front end issues, and contributing to the optimization of user interfaces."
+    "As a Software Developer Intern, I supported the development team by assisting in the implementation of responsive web designs, troubleshooting front end issues, and contributing to the optimization of user interfaces."
   },
 ];
 
