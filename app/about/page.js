@@ -6,6 +6,7 @@ import { TbArrowBackUp } from "react-icons/tb";
 import { IoLogoHtml5 } from "react-icons/io";
 import { FaCss3Alt , FaReact, FaGithub } from "react-icons/fa";
 import { IoLogoJavascript, IoLogoNodejs } from "react-icons/io5";
+import { GrMysql } from "react-icons/gr";
 import { SiTypescript, SiTailwindcss, SiExpress, SiMongodb } from "react-icons/si";
 import { TbBrandNextjs } from "react-icons/tb";
 
@@ -45,6 +46,7 @@ function Aboutpage() {
           <IoLogoNodejs className="text-[#80bc03] text-2xl" />
           <SiExpress className="text-2xl"/>
           <SiMongodb className="text-[#4dab40] text-2xl"/>
+          <GrMysql className="text-[#035068] text-2xl"/>
           <FaGithub className="text-2xl" />
           </div>
         </div>
