@@ -7,9 +7,9 @@ import { motion } from "framer-motion";
 
 let link = [
   {
-    date: "May 2024 - Present",
+    date: "September 2023 - August 2024",
     imgLink: "/img/experiencelogo.jpg",
-    title: "Front End Software Developer Intern",
+    title: "Front End Software Developer",
     sub: "Vosyn",
     subTitle: "As a Front End Developer, I Collaborate with the development team to integrate frontend elements with server-side logic, maintain a comprehensive test suite, and actively participating in all stages of the application lifecycle, including coding, debugging, and usability enhancements."
   },
