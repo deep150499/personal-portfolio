@@ -40,7 +40,7 @@ function Frpage() {
         As a Software Developer, my goal is to leverage my proficiencies to create visually stunning and user-friendly websites. With a keen eye for design and a passion for coding, I am dedicated to delivering innovative solutions that enhance the digital presence of businesses and provide exceptional user experiences.
         </p>
 
-        <Link href={'https://drive.google.com/file/d/1U1t2bOrvGbCuUbLmpKI0Z69T4i7BFY_o/view'} target="_blank"><button className="mt-10 border border-neutral-700/30 rounded-md p-2 w-full lg:w-44 bg-neutral-800/20 text-sm dark:text-neutral-400 font-semibold">
+        <Link href={'https://drive.google.com/file/d/1nzndddsv8cXcc9XKbWgWGxmODRM7NRlL/view'} target="_blank"><button className="mt-10 border border-neutral-700/30 rounded-md p-2 w-full lg:w-44 bg-neutral-800/20 text-sm dark:text-neutral-400 font-semibold">
           View resume
         </button>
         </Link>
